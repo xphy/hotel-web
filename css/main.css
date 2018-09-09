@@ -1,0 +1,60 @@
+#header{
+      background:#0B83BE;
+      color:#fff; 
+}
+#header img{
+      width: 80px;
+ }
+#header button{
+        border:0;
+        background:#0B83BD;
+        color:#fff;
+        font-size:18px;
+	margin-top:15px;
+}
+#left a{
+  position: relative;
+  text-decoration-line: none;
+  display: block;
+  padding: 0 10px 0 15px;
+  color: #337ab7;
+}
+#left .panel-body{
+  background:#fdfdfd; 
+}
+#left .panel-body a{
+  font-size:16px;
+  padding:5px 15px 5px 37px;
+}
+.input-group{
+    		margin-top: 15px;
+    	}
+.input-group-addon{
+    		background: #fafafa !important;
+    	}
+.read{background: #fff !important;}
+.myrow{
+  margin-top: 15px;
+}
+#profile img{
+        width: 220px;
+        height: 220px;
+}
+#messages .thumbnail img{
+        width: 220px;
+        height: 220px;
+}
+.file{
+     opacity: 0;
+     width:0;
+     height:0;
+     position:absolute;
+     top:0;
+     left:0;
+     z-index:-1
+}
+h2{
+  color:#337ab7 !important;
+  padding-bottom: 5px !important;
+  border-bottom: 1px solid #9d9d9d !important;
+}

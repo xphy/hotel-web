@@ -1,0 +1,11 @@
+.input-group-addon{
+      	background: #fafafa;
+      }
+      .myrow{
+        margin-top:15px;
+      }
+      #profile img{
+      	width: 220px;
+      	height: 220px;
+      }
+      .file{opacity: 0;width:0;height:0;position:absolute;top:0;left:0;z-index:-1}
